@@ -13,7 +13,7 @@ Features:<br>
  - Simple Text Editor (Might include a better one in a future update)
  - Save Manager (NEW)
 
-Note: <b> I will not provide the save decryption key. You must find it by yourself.</b><br>
-You should be able to reverse the game enough by using IL2CPP dumper and finding a string called "secretKey" which is the save decryption key. In an older public beta version it used to be "<b>tj0PERKELE</b>".<br>
-If you are a developer of FAS and you have a problem with this repo please contact me directly.
+Note: <b> I will not provide the save decryption key. You must find it by yourself.</b><br><br>
+You should be able to reverse the game enough by using IL2CPP dumper and finding a string called "secretKey" which is the save decryption key. In an older public beta version it used to be "<b>tj0PERKELE</b>".<br><br>
+If you are a developer of FAS and you have a problem with this repo please contact me directly.<br>
 Contact me on Jabber (XMPP): lebedev21@xmpp.jp
